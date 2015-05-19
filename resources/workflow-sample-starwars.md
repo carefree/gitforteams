@@ -49,7 +49,7 @@ Do your work and push from here.
 
 **To keep your branch current with dev:**
 
-    git checkout dev
+    'git checkout dev
     git pull origin dev
     git checkout <branchname>
     git rebase dev
