@@ -73,7 +73,7 @@ We are currently using a peer-review process. Code reviews help both the reviewe
 
 3. 
 
-    git branch -a # show a list of all available branches
+    'git branch -a # show a list of all available branches
     git fetch # downloads the branches
     git checkout --track -b NNNN-branch-name origin/NNNN-branch-name # NNNN should be the ticket number
     (short version of above = git checkout --track origin NNNN-branch-name)
